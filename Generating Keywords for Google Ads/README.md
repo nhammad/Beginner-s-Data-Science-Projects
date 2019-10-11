@@ -1,0 +1,1 @@
+In this project, we create a prototype set of keywords for search campaigns for the sofas section of a massive online retailer of furniture. We play around with DataFrames (pandas) to achieve our set goal. 
