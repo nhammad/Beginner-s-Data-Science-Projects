@@ -2,47 +2,47 @@ I started learning Data Science concepts through DataCamp and thoroughly enjoyed
 
 Here's a list of some of the courses I studied:
 
-Python Data Science Toolbox 
+- Python Data Science Toolbox 
 
-Importing Data in Python
+- Importing Data in Python
 
-Cleaning Data in Python
+- Cleaning Data in Python
 
-pandas Foundations
+- pandas Foundations
 
-Manipulating DataFrames with pandas
+- Manipulating DataFrames with pandas
 
-Merging DataFrames with pandas
+- Merging DataFrames with pandas
 
-Analyzing Police Activity with pandas
+- Analyzing Police Activity with pandas
 
-Introduction to Data Visualization with Python
+- Introduction to Data Visualization with Python
 
-Interactive Data Visualization with Bokeh
+- Interactive Data Visualization with Bokeh
 
-Statistical Thinking in Python 
+- Statistical Thinking in Python 
 
-Supervised Learning with scikit-learn
+- Supervised Learning with scikit-learn
 
-Machine Learning with the Experts: School Budgets
+- Machine Learning with the Experts: School Budgets
 
-Unsupervised Learning in Python
+- Unsupervised Learning in Python
 
-Machine Learning with Tree-Based Models in Python
+- Machine Learning with Tree-Based Models in Python
 
-Deep Learning in Python
+- Deep Learning in Python
 
-Network Analysis in Python 
+- Network Analysis in Python 
 
-Fundamentals of Natural Language Processing
+- Fundamentals of Natural Language Processing
 
 
-Introduction to Shell for Data Science
+- Introduction to Shell for Data Science
 
-Conda Essentials
+- Conda Essentials
 
-Intro to SQL for Data Science
+- Intro to SQL for Data Science
 
-Introduction to Relation Databases in SQL
+- Introduction to Relation Databases in SQL
 
-Joining Data in SQL
+- Joining Data in SQL
