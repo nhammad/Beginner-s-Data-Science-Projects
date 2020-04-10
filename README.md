@@ -1,6 +1,6 @@
 I started learning Data Science concepts through DataCamp and thoroughly enjoyed the process. In these tasks, I have applied the skills I've learnt. I'm using Python and Jupyter Notebooks. 
 
-Here's a list of some of the courses I studied:
+Here's a list of some of the courses I took:
 
 - Python Data Science Toolbox 
 
