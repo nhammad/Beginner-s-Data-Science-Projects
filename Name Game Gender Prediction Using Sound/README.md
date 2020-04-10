@@ -1,12 +1,12 @@
-## Name Game Gender Prediction Using Sound
+# Name Game Gender Prediction Using Sound
 
 In this project, I wrote a script that could predict the gender on the basis of the name (the sound of the name to be more precise). 
 
-# Dataset:
+## Dataset:
 
 The dataset consisted of weekly lists of best-selling books from different genres published by New York Times.
 
-# Tools:
+## Tools:
 
 * Python
   - Fuzzy
