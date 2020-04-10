@@ -5,6 +5,7 @@ In this project, I analyzed the World Bank's international debt data to find inf
 * Country with the highest debt
 * The highest amount of principal repayments
 * The most common debt indicator
+
 etc..
 
 ## Tools 
