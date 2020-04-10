@@ -4,4 +4,9 @@ In this project, I looked at the character co-occurrence network and its evoluti
 
 ## Tools
 
-Pandas/DataFrames, the networkx package, and different network centrality measures were used.
+* Pandas/DataFrames
+* The networkx package
+* Different network centrality measures like:
+    - Degree centrality
+    - Between centrality
+    - Page Rank
